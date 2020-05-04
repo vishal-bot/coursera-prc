@@ -1,2 +1,0 @@
-# coursera-prc
-coursera practice
