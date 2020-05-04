@@ -17,10 +17,8 @@ article{
   border: 1px solid black;
   background-color: grey;
   width: 100%;
-  height: 240px;
   font-family: Helvetica;
   color: black;
-  overflow: auto;
 }
 .p_cont{ 
   padding: 5px;
